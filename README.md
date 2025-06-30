@@ -6,7 +6,7 @@ frontend developer
 
 i'm a 4th year college student studying artificial intelligence and machine learning, with a strong passion for frontend web development. i specialize in crafting clean, responsive user interfaces using modern frameworks like react and tailwindcss, and i enjoy seamlessly integrating these interfaces with backend systems to build full-stack experiences that are both functional and visually engaging.
 
-* 🌍  i'm based in Kolkata
+* 🌍  i'm based in kolkata🇮🇳
 * ✉️  you can contact me at [ayaang.ray@gmail.com](mailto:ayaang.ray@gmail.com)
 * 🧠  i'm currently learning websockets
 
